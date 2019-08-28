@@ -7,10 +7,6 @@
 
 `npm install`
 
-<p>Next you'll want to run </p>
-
-`npm serve`
-
 <h3>Run the Project</h3>
 <p>To run the Rolodex project, run the following in npm:</p>
 
