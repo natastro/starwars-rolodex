@@ -11,3 +11,7 @@
 <p>To run the Rolodex project, run the following in npm:</p>
 
 `npm run dev`
+
+<p>After running the project, put local host and the # associated from the terminal into your browser</p>
+
+`localhost:####`
